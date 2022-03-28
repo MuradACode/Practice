@@ -7,15 +7,6 @@ namespace Practice
     {
         static void Main(string[] args)
         {
-            //Room room = new Room("Room 1", 50, 143, true);
-            //Room room1 = new Room("Room 2", 70, 1, true);
-            //Room roomm = new Room("Room 3", 45, 1);
-            //Hotel hotel = new Hotel("name");
-            //hotel.AddRoom(room);
-            //hotel.AddRoom(room1);
-            //Console.WriteLine(room.ToString());
-            //Console.WriteLine(room1.ToString());
-            //hotel.MakeReservation(1);
             Menu();
         }
         public static void Menu()
